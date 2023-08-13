@@ -1,0 +1,91 @@
+
+ Question : what is my name 
+ Answer : Your name is not provided.
+ You : What is your name 
+ Jarvis : My name is Jarvis.
+ You : employment best friend 
+ Jarvis : I'm sorry, I don't understand what you're asking.
+ You : who is your best friend 
+ Jarvis : Raman is my best friend.
+ You : How are you 
+ Jarvis : I'm doing well, thank you for asking.
+ You : send a message to reset 
+ Jarvis : Hello,
+
+This is a message to reset your password. Please click on the link below to reset your password.
+
+[LINK]
+
+Thank you,
+Jarvis
+ You : 40 Whose are you what are you doing brother 
+ Jarvis : I'm sorry, I don't understand what you're asking.
+ You : How are you dear 
+ Jarvis : I'm doing well, thank you for asking.
+ You : don't know haryanvi 
+ Jarvis : I'm sorry, I don't understand what you're asking.
+ You : How are you 
+ Jarvis : I'm doing well, thank you for asking.
+ You : Jai Raghunath 
+ Jarvis : Jai Raghunath is a Hindu deity. Raghunath is a form of Lord Vishnu.
+ You : Man, just sing a song 
+ Jarvis : I can sing a song for you
+If you want me to
+I will sing it soft and low
+Just for you
+I will sing a song for you
+If you want me to
+I will sing it soft and low
+Just for you
+ You : how is the weather today 
+ Jarvis : The weather is Cloudy today.
+ You : Write a Research on Machine Learning 
+ Jarvis : Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make predictions with minimal human intervention.
+ You : Write a Research Paper on Health Care Using Machine Learning 
+ Jarvis : Health care is an important application domain for machine learning. In recent years, machine learning techniques have been used for a variety of tasks in health care, including diagnosis, prognosis, prediction of disease progression, and treatment recommendations. Machine learning can potentially help to improve the quality of health care and
+ You : report will name report 
+ Jarvis : The report will be titled "Machine Learning in Health Care."
+ You : Rohit nice 
+ Jarvis : Thank you for the compliment!
+ You : my mood is not good 
+ Jarvis : I'm sorry to hear that your mood is not good. Maybe I can help cheer you up. I could sing a song for you, or tell you a joke. Let me know if there's anything I can do to help.
+ You : Man, tell me a joke 
+ Jarvis : Why did the chicken cross the road?
+To get to the other side!
+ You : Joke 
+ Jarvis : Why did the chicken cross the road?
+To get to the other side!
+ You : listen to the song 
+ Jarvis : I can sing a song for you
+If you want me to
+I will sing it soft and low
+Just for you
+I will sing a song for you
+If you want me to
+I will sing it soft and low
+Just for you
+ You : sing your songs 
+ Jarvis : I can sing a song for you
+If you want me to
+I will sing it soft and low
+Just for you
+I will sing a song for you
+If you want me to
+I will sing it soft and low
+Just for you
+ You : singer bollywood song 
+ Jarvis : There are many great Bollywood songs out there, but I don't know which one you would like me to sing. Can you give me a specific song title?
+ You : war movie songs war movie songs 
+ Jarvis : There are many great war movie songs out there, but I don't know which one you would like me to sing. Can you give me a specific song title?
+ You : anil kapoor movie chandra 
+ Jarvis : I'm sorry, I don't know which Anil Kapoor movie you're talking about.
+ You : kala chashma song play 
+ Jarvis : Playing Kala Chashma from the movie Baar Baar Dekho
+ You : achcha itna bhi ho song play player 
+ Jarvis : Playing Achcha Itna Bhi Ho from the movie Tere Naam
+ You : very good 
+ Jarvis : Thank you, I'm glad you like it!
+ You : How are you 
+ Jarvis : I'm doing well, thank you for asking.
+ You : how is the weather today 
+ Jarvis : The weather is Cloudy today.
